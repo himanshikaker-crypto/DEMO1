@@ -1,2 +1,3 @@
 New line in the example file.
-Again new line added
+Again new line added.
+Again Again new line added.
